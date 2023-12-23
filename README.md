@@ -52,8 +52,7 @@ Enter Previous Reading
 </html>
 ```
 # OUTPUT (9a):
-![Alt text](java1.png)
-
+![java1](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/6bbf6a18-6beb-4209-8e8a-5d59765ad12d)
 
 # Ex-09(b) :
 
@@ -104,8 +103,7 @@ Enter Number: <input type="text" id="num">
 </html>
 ```
 # OUTPUT (9b):
-![Alt text](java2.png)
-
+![java2](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/0e97ff0d-cc19-4247-bd63-b008f977bd3c)
 # Ex-09(c)
 # AIM
 Construct a JavaScript code to generate ‘N’ prime numbers.
@@ -162,7 +160,7 @@ Generate 'N' prime Number<br>
 </html>
 ```
 # OUTPUT(9c):
-![Alt text](java3.png)
+![java3](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/7e86a44c-cbd4-4a63-9e69-068567590db1)
 
 # Ex-09(d)
 
@@ -182,7 +180,7 @@ Call the calculate function with the numbers and operator as arguments to perfor
 # Step 4:
 Print the result of the calculation.
 
-# CODE(9d)::
+# CODE(9d):
 ```
 <!DOCTYPE html>
 <html>
@@ -238,12 +236,12 @@ function divide() {
 </html>
 ```
 # OUTPUT(9d):
-![Alt text](java4.1.png)
-![Alt text](java4.2.png)
-![Alt text](java4.3.png)
-![Alt text](java4.4.png)
-![Alt text](java4.5.png)
-
+![java4](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/923a787e-d9c2-4962-b064-52be70b8d2ef)
+![java4 1](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/603b04ba-0812-479d-9f58-1f74548f43a7)
+![java4 2](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/0a22791a-5586-4878-8306-def8eafea0d1)
+![java4 3](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/7d5960c1-fd32-4ab7-b294-7f66d59c8f01)
+![java4 4](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/f2c4853e-2306-4178-aa7d-a36261d0acbb)
+![java4 5](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/ed676319-e843-446f-aead-0dadfd9a8f0c)
 
 # Ex-09(e):
 
@@ -328,11 +326,11 @@ document.getElementById("num").style.fontStyle = "normal";
 ```
 
 # OUTPUT(9e):
-![Alt text](java5.png)
-![Alt text](java5.1.png)
-![Alt text](java5.2.png)
-![Alt text](java5.3.png)
-![Alt text](java5.4.png)
+![java5](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/febf0b08-c6b5-4467-9211-be21c8db5711)
+![java5 1](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/91e91c48-116a-4523-88e4-91e73d898e29)
+![java5 2](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/972dcbcf-a221-4159-8ca3-9ceca402fd5d)
+![java5 3](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/6c3ad73a-3ec7-41ed-a970-77cdc3729a74)
+![java5 4](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/42854fa9-669e-448b-968a-a060102fbd17)
 
 # Ex-09(f):
 # AIM
@@ -396,6 +394,9 @@ function validateForm() {
 ```
 
 # OUTPUT(9f):
-![Alt text](java6.png)
-![Alt text](java6.1.png)
-![Alt text](java6.2.png)
+![java6](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/cdc6fb44-840b-4796-a805-e76013063748)
+![java6 1](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/1d6da3b7-d997-4763-beae-9255a62a0637)
+![java6 2](https://github.com/23002776/ODD23-24-WT-JavaScript/assets/145742657/289ed1cc-531c-4e54-8310-9314d908d2a7)
+
+
+
